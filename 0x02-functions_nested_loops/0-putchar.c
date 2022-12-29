@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Print _putchar
+ * main - print _putchar
  * is written by DEHMURLAR
  * Return: 0
  */
