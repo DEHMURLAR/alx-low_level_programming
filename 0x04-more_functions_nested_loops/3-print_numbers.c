@@ -2,7 +2,8 @@
 
 /**
 *print_numbers - print 0123456789
-*Return: 0
+* Developed by DEHMURLAR
+*Return: void
 */
 
 void print_numbers(void)
